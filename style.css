@@ -1,0 +1,114 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background: #1f2937;
+    color: white;
+    margin: 0px;
+}
+button{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    text-align: center;
+    display: block;
+    background-color: #978aa3;
+    width: 100%;
+    margin: 0%;
+    border: none;
+    font-weight: 600;
+    padding-top: 75px;
+}
+.column{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 50px;
+
+}
+#task-sect{
+    font-weight: 600;
+}
+#cost-sect{
+    font-weight: 600;
+}
+.row{
+    content: "";
+    display: table;
+    clear: both;
+}
+#info{
+    display: inline-table;
+    padding: 4px 12px;
+}
+
+#values{
+    display: inline-table;
+    padding: 4px 12px;
+
+}
+h4{
+    text-align: center;
+    padding-top: 5px;
+    display: block;
+    height: 100px;
+    margin-top: 0px;
+    background: #978aa3;
+}
+button{
+    border-radius: 8px;
+    box-shadow: 4px #999;
+    border: none;
+    
+}
+button:hover{
+    background-color: #857a90;
+}
+button:active{
+    background-color: #857a90;
+}
+
+li{
+    list-style-type: none;
+
+}
+#mail-img{
+    
+    width: auto;
+    height: 15px;
+}
+
+#invoice-btn{
+    width: 400px;
+    height: 50px;
+    background-color: #978aa3;
+    color: white;
+    align-items: center;
+    
+}
+#notes-div{
+    padding: 12px 40px;
+}
+#total{
+    padding-bottom: 12px;
+}
+#wash-btn{
+    height: 50px;
+    background-color: #978aa3;
+    color: white;
+    align-items: center;
+    padding: 12px 40px;
+}
+#weed-btn{
+    height: 50px;
+    background-color: #978aa3;
+    color: white;
+    align-items: center;
+    padding: 12px 40px;
+}
+#mow-btn{
+    height: 50px;
+    background-color: #978aa3;
+    color: white;
+    align-items: center;
+    padding: 12px 40px;
+}
